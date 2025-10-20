@@ -9,7 +9,7 @@ layout: default
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/YOURPROFILE/)](https://www.linkedin.com/in/YOURPROFILE/)
 [![Email](https://img.shields.io/badge/-Email-black?style=flat-square&logo=Gmail&logoColor=white&link=mailto:your.email@domain.com)](mailto:your.email@domain.com)
 
-[About](index.md) • [Research](research.md) • [Teaching](teaching.md) • [CV](cv.md)
+[About](index.md) • [Research](research.md) • [Teaching](teaching.md) • [CV](cv.md) • [test](test.md) • [test1](test1.md)
 
 ---
 
