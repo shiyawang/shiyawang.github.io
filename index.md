@@ -9,6 +9,8 @@ layout: default
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/YOURPROFILE/)](https://www.linkedin.com/in/YOURPROFILE/)
 [![Email](https://img.shields.io/badge/-Email-black?style=flat-square&logo=Gmail&logoColor=white&link=mailto:your.email@domain.com)](mailto:your.email@domain.com)
 
+[About](about.md) • [Research](research.md) • [Teaching](teaching.md) • [CV](cv.md)
+
 ---
 
 Welcome! I am **Shiya Wang**, a researcher based at [Your Institution or Affiliation]. My work is focused on [short summary of your research interests and areas of expertise].
