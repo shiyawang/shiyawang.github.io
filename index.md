@@ -4,7 +4,7 @@ layout: default
 
 # Shiya Wang
 
-<img src="images/sw_headshot_min.jpeg" alt="SW headshot" width="180">
+<img src="images/sw_headshot_min.jpg" alt="SW headshot" width="180">
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/YOURPROFILE/)](https://www.linkedin.com/in/YOURPROFILE/)
 [![Email](https://img.shields.io/badge/-Email-black?style=flat-square&logo=Gmail&logoColor=white&link=mailto:your.email@domain.com)](mailto:your.email@domain.com)
