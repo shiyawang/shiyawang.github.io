@@ -9,16 +9,14 @@ layout: default
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/YOURPROFILE/)](https://www.linkedin.com/in/YOURPROFILE/)
 [![Email](https://img.shields.io/badge/-Email-black?style=flat-square&logo=Gmail&logoColor=white&link=mailto:your.email@domain.com)](mailto:your.email@domain.com)
 
-[About](about.md) • [Research](research.md) • [Teaching](teaching.md) • [CV](cv.md)
+[About](index.md) • [Research](research.md) • [Teaching](teaching.md) • [CV](cv.md)
 
 ---
 
-Welcome! I am **Shiya Wang**, a researcher based at [Your Institution or Affiliation]. My work is focused on [short summary of your research interests and areas of expertise].
+Welcome! I study how organizations---from established firms to small businesses---hire and retain talent, and the uneven effects of these organizational processes on women's and men's compensation, productivity, and career trajectories.
 
-## About Me
+I am a Postdoctoral Fellow at the Tamer Institute for Social Enterprise and Climate Change at Columbia Business School. I am also a Research Affiliate at the Harvard Kennedy School. Previously, I was a Postdoctoral Fellow at Harvard Business School.
 
-> Write a short biography here: your current position, research themes, background, and key skills.
+I hold a Ph.D. in Organizational Behavior from the Stanford Graduate School of Business, and an A.B. in English and an A.M. in Statistics from Harvard University. 
 
-- 🌱 Interests: [econometrics, machine learning, development economics, etc.]
-- 🎓 Education: [PhD, MA, BS, School, years]
-- 💼 Current: [Position, Department, Institution]
+
