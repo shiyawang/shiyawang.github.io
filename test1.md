@@ -6,8 +6,9 @@ layout: default
 
   <img src="images/sw_headshot_min.jpg" alt="SW headshot" width="180" style="border-radius: 50%; margin-bottom: 20px;">
 
-[About](index.md) • [Research](research.md) • [Teaching](teaching.md) • [CV](cv.md) • [test1](test1.md)
 </div>
+
+[About](index.md) • [Research](research.md) • [Teaching](teaching.md) • [CV](cv.md) • [test1](test1.md)
 
 ---
 
