@@ -5,7 +5,9 @@ description: >
 #logo: /images/sw_headshot_min.jpg
 favicon: /images/sw_headshot_min.jpg
 
-
+github:
+  is_project_page: false
+  
 remote_theme: pages-themes/minimal@v0.2.0
 
 plugins:
