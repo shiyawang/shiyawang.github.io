@@ -3,8 +3,9 @@ description: >
   Postdoctoral Fellow<br>Columbia Business School
 
 
-logo: /images/sw_headshot_min.jpg
+#logo: /images/sw_headshot_min.jpg
 #favicon: /images/sw_headshot_min.jpg
+
 
 remote_theme: pages-themes/minimal@v0.2.0
 
