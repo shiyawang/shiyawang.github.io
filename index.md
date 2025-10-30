@@ -14,4 +14,4 @@ I am a Postdoctoral Fellow at the Tamer Institute for Social Enterprise and Clim
 
 I hold a Ph.D. in Organizational Behavior from the Stanford Graduate School of Business, and an A.B. in English and an A.M. in Statistics from Harvard University. 
 
-_[Curriculum Vitae](assets/CV_Shiya_Wang_Oct_2025.pdf)._ 
+_[Curriculum Vitae](assets/CV_Shiya_Wang_Oct_2025.pdf)_ 
