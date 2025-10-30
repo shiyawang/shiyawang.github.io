@@ -1,12 +1,10 @@
 title: Shiya Wang
 description: >
   Postdoctoral Fellow<br>Columbia Business School
-position: Postdoctoral Fellow
-affiliation: Columbia Business School
-email: sw2876 (at) columbia.edu
 
-avatar: /images/sw_headshot_min.jpg
-favicon: /images/sw_headshot_min.jpg
+
+logo: /images/sw_headshot_min.jpg
+#favicon: /images/sw_headshot_min.jpg
 
 remote_theme: pages-themes/minimal@v0.2.0
 
