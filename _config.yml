@@ -2,12 +2,21 @@ title: Shiya Wang
 description: >
   Postdoctoral Fellow<br>Columbia Business School
 
-
+<<<<<<< HEAD
 #logo: /images/sw_headshot_min.jpg
+favicon: /images/sw_headshot_min.jpg
+
+remote_theme: pages-themes/minimal@v0.2.0 
+
+#remote_theme: "mmistakes/minimal-mistakes@4.27.3"
+
+=======
+
+logo: /images/sw_headshot_min.jpg
 #favicon: /images/sw_headshot_min.jpg
 
-
 remote_theme: pages-themes/minimal@v0.2.0
+>>>>>>> parent of 41b48b4 (logo update)
 
 plugins:
   - jekyll-remote-theme
