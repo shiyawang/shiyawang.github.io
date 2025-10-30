@@ -2,18 +2,25 @@
 title: "Teaching"
 ---
 
-# Teaching
+Negotiating Your Career Path
+Teaching Fellow for Prof. Hannah Bowles, Fall 2025
 
-Welcome to my teaching page! Here you'll find information about my teaching philosophy, courses instructed, and materials.
+Equity by Design
+Guest Speaker for Prof. Adina D. Sterling, Spring 2023, 2024, 2025
 
-## Courses
+Business and AI
+Teaching Fellow for Prof. Kathryn Shaw, Spring 2022
 
-- **Course 1:** [Course website or syllabus link]
-- **Course 2:** [Course website or syllabus link]
-- ... etc.
+Financial Restructuring
+Teaching Fellow for Prof. Claudia Robles-Garcia, Winter 2021
 
-## Teaching Philosophy
+Managerial Skills
+Teaching Fellow for Prof. Scott Brady, Autumn 2020 
 
-_A short paragraph about what you value in teaching._
+Strategic Leadership
+Teaching Fellow for Prof. Jesper B. S\o rensen, Winter 2020 
+
+Acting with Power
+Teaching Fellow for Prof. Deborah Gruenfeld, Autumn 2019 
 
 [Back to Home](index.md)
