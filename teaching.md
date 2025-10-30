@@ -4,7 +4,7 @@ title: "Teaching"
 
 # Teaching
 
-I feel comfortable with and enthusiastic about teaching a wide range of courses, including human resource management, negotiation, and topics related to DEI, at both the undergraduate and graduate levels.
+I am excited to integrate teaching and student advising into my academic career. I have served as a teaching assistant for a number of core and elective MBA classes. I am enthusiastic about teaching a wide range of courses, including human resource management, negotiation, and topics related to DEI, at both the undergraduate and graduate levels.
 
 
 **Negotiating Your Career Path** <br>
