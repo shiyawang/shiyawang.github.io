@@ -24,6 +24,8 @@ Another stream of research examines how the evolving nature of work and workplac
 
 **The Role of Grandparents in Working Mothers' Labor Market Participation and Well-Being** (With Hannah Bowles and Alicia Modestino)
 
+**Dual-Earner Couple Decision-Making: Gender, Charitable Giving, and Marriage** (With Matthew Perrigino)
+
 ## 3. Local Entrepreneurship and Neighborhoods 
 
 Most recently, I have begun to study the antecedents and consequences of local entrepreneurship---community-based brick-and-mortar businesses. We investigate how neighborhoods spur local businesses and how, in return, these small, neighborhood-embedded businesses serve as vital engines not only of economic growth, but also of the stability, cohesion, and overall well-being of their communities.
@@ -31,5 +33,7 @@ Most recently, I have begun to study the antecedents and consequences of local e
 **How Social Contexts and Tacit Knowledge Shape Local Entrepreneurship** (With Jorge Guzman, Mario Small, and Dan Wang)
 
 **Local Entrepreneurship and Neighborhood Inequality** (With Jorge Guzman, Mario Small, and Dan Wang)
+
+**Power Brokers and the Making of Neighborhood Entrepreneurship** (With Jorge Guzman, Mario Small, and Dan Wang)
 
 [Back to Home](index.md)
