@@ -14,4 +14,4 @@ I am a Postdoctoral Fellow in the Management Division at Columbia Business Schoo
 
 I hold a Ph.D. in Organizational Behavior from the Stanford Graduate School of Business, and an A.B. in English and an A.M. in Statistics from Harvard University. 
 
-_[Curriculum Vitae](assets/CV_Shiya_Wang_Oct_2025.pdf)_ 
+_[Curriculum Vitae](assets/CV_Shiya_Wang_Nov_2025.pdf)_ 
