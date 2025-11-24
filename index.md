@@ -14,4 +14,6 @@ I am a Postdoctoral Fellow in the Management Division at Columbia Business Schoo
 
 I hold a Ph.D. in Organizational Behavior from the Stanford Graduate School of Business, and an A.B. in English and an A.M. in Statistics from Harvard University. 
 
+Previously, I was a pianist and received my training from The Juilliard School.
+
 _[Curriculum Vitae](assets/CV_Shiya_Wang_Nov_2025.pdf)_ 
